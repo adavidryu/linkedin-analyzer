@@ -29,6 +29,10 @@ export default function DashboardPage() {
                 <li>Published 5+ papers in ML</li>
                 </ul>
             </div>
+            <div className="flex gap-2 justify-end">
+                <Button variant="default">Save</Button>
+                <Button variant="outline">Share</Button>
+            </div>
             </CardContent>
       </Card>
       </div>

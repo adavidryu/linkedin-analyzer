@@ -28,9 +28,9 @@ export default function Navbar() {
             </Link>
           </NavigationMenuItem>
           <NavigationMenuItem>
-            <Link href="/history" legacyBehavior passHref>
+            <Link href="/saved" legacyBehavior passHref>
               <NavigationMenuLink className="px-4 py-2 hover:underline">
-                History
+                Saved
               </NavigationMenuLink>
             </Link>
           </NavigationMenuItem>
